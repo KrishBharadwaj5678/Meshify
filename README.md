@@ -56,37 +56,8 @@ python app.py
 
 We welcome contributions to **Meshify**!
 
-### 1. **Fork the Repository** 🍴
-
-### 2. **Clone Your Fork** 📥
-
-```bash
-git clone  https://github.com/KrishBharadwaj5678/Meshify.git
-cd Meshify
-```
-
-### 3. **Create a New Branch** 🌱
-
-```bash
-git checkout -b feature-branch
-```
-
-### 4. **Make Your Changes** 📝
-
-### 5. **Commit Your Changes** 💾
-
-```bash
-git add .
-git commit -m "Description of your changes"
-```
-
-### 6. **Push to Your Fork** ⬆️
-
-```bash
-git push origin feature-branch
-```
-
-### 7. **Open a Pull Request** 🔄
-
-* Go to the original **Meshify** repository and click **Compare & Pull Request**.
-* Provide a detailed description of your changes in the pull request and why they are being made.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
