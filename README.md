@@ -1,10 +1,8 @@
 # 🧑‍💻 Meshify 
 
-**Meshify** is a Python based real time face mesh detection application. It leverages **OpenCV**, **Mediapipe**, and **CVZone** to provide efficient and accurate facial landmark mapping through your camera. 📸
+**Meshify** is a Python based real time face mesh detection application. It leverages **OpenCV**, **Mediapipe**, and **CVZone** to provide efficient and accurate facial landmark mapping through your camera. 
 
 ![Meshify](https://github.com/KrishBharadwaj5678/Meshify/raw/main/MeshifyDemo.png)
-
----
 
 ## 🚀 Features
 
