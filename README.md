@@ -1,61 +1,84 @@
-# 🧑‍💻 Meshify 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/Meshify.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/Meshify?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/Meshify?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/Meshify?style=for-the-badge&color=blue" />
+</p>
 
-**Meshify** is a Python based real time face mesh detection application. It leverages **OpenCV**, **Mediapipe**, and **CVZone** to provide efficient and accurate facial landmark mapping through your camera. 
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-![Meshify](https://github.com/KrishBharadwaj5678/Meshify/raw/main/MeshifyDemo.png)
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/icons/meshifyIcon.png" width="35"/> Meshify</h1>
 
-## 🚀 Features
+<p align="center">
+  Meshify is a real-time face mesh detection application that uses OpenCV, MediaPipe, and CVZone to identify and track facial landmarks with high accuracy and performance.
+</p>
 
-| Feature                              | Description                                                           |
-| ------------------------------------ | --------------------------------------------------------------------- |
-| 🧠 **Real Time Face Mesh Overlay**    | Detects and overlays a 3D face mesh in real time.                     |
-| 🎯 **Precise Landmark Mapping**       | Maps 468 facial landmarks with high accuracy.                         |
-| ⚡ **Lightweight and Fast**            | Optimized for performance with minimal latency.                       |
-| ⚙️ **Customizable**                   | Easily tweak settings for face mesh detection.                         |
-| 🔗 **Easy Integration**               | Integrates smoothly with OpenCV and Mediapipe.                        |
+![MeshifyDemo](https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/demos/MeshifyDemo.png)
 
----
+<img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 💻 Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/features.gif" width="35"/> Features
 
-| Technology    | Description                                                                         |
-| ------------- | ----------------------------------------------------------------------------------- |
-| 🖥️ **OpenCV**    | Open source library for computer vision tasks like video capture and processing.    |
-| 🤖 **Mediapipe** | Framework by Google for building multimodal pipelines.                              |
-| 🧰 **CVZone**    | High level library built on top of OpenCV to simplify common computer vision tasks. |
-| 🐍 **Python**    | The programming language used for developing the application.                       |
+| Feature | Description |
+|---|---|
+| 👁️ **Real-Time Face Tracking** | Detects and tracks facial features instantly using a live camera feed. |
+| 🎯 **Detailed Landmark Detection** | Identifies up to 468 facial landmarks for accurate face analysis. |
+| 🚀 **High-Speed Processing** | Provides smooth performance with minimal processing delay. |
+| 🛠️ **Flexible Configuration** | Allows detection parameters and settings to be customized easily. |
 
----
+<img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## ⚙️ Installation
+## <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-### Clone the Repository
+| Technology | Description |
+| ---------- | ----------- |
+| <img src="https://skillicons.dev/icons?i=opencv" width="25"/> **OpenCV** | Video capture and image processing. |
+| <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/icons/mediapipe.png" width="25"/> **MediaPipe** | Real-time face mesh detection. |
+| <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/icons/cvzone.png" width="25"/> **CVZone** | Simplifies computer vision tasks. |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python** | Core language for the application. |
+
+<img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
+
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Meshify.git
+```
+
+### 2️⃣ Navigate to the Project
+
+```bash
 cd Meshify
 ```
 
-### Install Dependencies
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the Application
+### 4️⃣ Run the Application
 
 ```bash
 python app.py
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Contributing
+## <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/license.gif" width="35"/> License
 
-We welcome contributions to **Meshify**!
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Meshify/raw/main/assets/readme/footer.gif" width="320px"/>
+</p>
